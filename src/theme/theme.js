@@ -58,7 +58,7 @@ const theme = createTheme({
           borderRadius: "19px",
           minHeight: "69px",
           minWidth: "150px",
-          fontFamily: "monospace",
+          fontFamily: FONTS.primaryBold,
           boxShadow: "none",
           transition: "all .3s ease",
           "&:hover": {
